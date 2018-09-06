@@ -1,7 +1,7 @@
 Semester long cumulative project, first vigorous coding course. (performed fall 2017)
 Langauge: C
 Project 3: Basic Data Sorter - server/client
-Student	Mitch Lew
+Student	Mitch Lew, Adithya Thiruvalluvan, Dhruvik Patel, Sagar Phanda
 Submitted Date	Dec 14, 2017 11:55 pm
 Grade	100.00	(max 100.00)
 History	Wed Dec 13 23:57:43 EST 2017 Mitch Lew (mgl70) submitted
